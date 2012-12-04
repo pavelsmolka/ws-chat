@@ -1,0 +1,11 @@
+#app {
+    position: relative;
+    margin: 50px;
+}
+
+.message {
+    position: relative;
+    border: 1px solid grey;
+    margin: 10px;
+    padding: 10px;
+}
